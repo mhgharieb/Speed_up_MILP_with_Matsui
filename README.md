@@ -1,4 +1,4 @@
-# Automatic-Cryptanalysis 
+# Speed_up_MILP_with_Matsui
 Codes for article "Speeding up MILP Aided Differential Characteristic Search with Mastui's Strategy".
 
 To make the program run normally, CryptoMIP need to be imported. However, CryptoMIP is unable to be public for the sake of patent. To verify the correctness of results in our essay, you may use .lp documents.
