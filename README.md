@@ -15,4 +15,4 @@ MILP Model 1~8 for SIMON32, SIMON48 and SIMON64. However, only SIMON32 and SIMON
 MILP Model 1~8 for SPECK32 and SPECK64. New models are useless for SPECK.
 
 ## Speeding up MILP Aided Differential Characteristic Search with Mastui's Strategy
-
+The article accepted by ISC2018.
